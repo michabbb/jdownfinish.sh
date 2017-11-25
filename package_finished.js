@@ -1,4 +1,4 @@
-cript = '/opt/pushover/scripts/jdownfinish.sh';
+script = '/opt/pushover/scripts/jdownfinish.sh';
 var event = package;
 var name = package.getName();
 
